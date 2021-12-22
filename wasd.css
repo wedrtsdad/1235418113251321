@@ -1,0 +1,40 @@
+body{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    background-image: url("images\ \(2\).jpg");
+    background-size: repeat;
+    font-family: 'Indie Flower', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Shizuru', cursive;
+font-family: 'Twinkle Star', cursive;
+font-weight:bold;
+}
+
+#btn1{
+    font-size: larger;
+    color:rgb(255, 123, 0);
+    background-color: white;
+}
+
+#abc{
+      size: 40px;
+}
+
+hr{
+    width: 300px;
+}
+
+#bottom{
+    bottom: sticky;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    width: 1700px;
+    background-color: rgba(255, 123, 0, 0.486);
+}
+
+#div1{
+    background-color: rgba(255, 255, 255, 0.596);
+    height: 1000px;
+}
